@@ -1,4 +1,4 @@
-[![deprecated](http://badges.github.io/stability-badges/dist/deprecated.svg)](https://github.com/dat-ecosystem-archive/DEPs) See [hyper SDK](https://github.com/dat-ecosystem-archive/DEPs) for similar functionality. 
+[![deprecated](http://badges.github.io/stability-badges/dist/deprecated.svg)](https://github.com/dat-ecosystem-archive/DEPs) See [DEPs](https://github.com/dat-ecosystem-archive/DEPs) for similar functionality. 
 
 More info on active projects and modules at [dat-ecosystem.org](https://dat-ecosystem.org/) <img src="https://i.imgur.com/qZWlO1y.jpg" width="30" height="30" /> 
 
